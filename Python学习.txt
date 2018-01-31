@@ -1,0 +1,26 @@
+bbs.fishc.com/forum-173-1.html
+----------------------------------------Class 1
+IDLE	ctrl+n 新建窗口
+print("i love python")
+print(5+3)
+5*2
+print("well water"+"river")
+print("i love asd"*8)
+print("i love asd\n"*8)
+print("i love asd\n"+8)	报错，类型不匹配
+----------------------------------------Class 2
+temp=input("猜数字")
+#input返回字符串
+
+BIF == Built-in functions
+中文意思是内置函数
+
+help(input)	帮助
+----------------------------------------Class 3
+python没有变量，只有名字（把名字贴在值的上面）
+num = '520'
+print(num)
+输出不含单引号，但是是字符串，因为有print，如果输入num输出含有字符串
+str1=r'asd'+'\\'
+
+str为内置函数，尽量别用
